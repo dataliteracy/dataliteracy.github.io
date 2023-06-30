@@ -28,16 +28,16 @@
 
 .blog-meta a i {
   color: #464646;
-  font-size: 14px;
+  font-size: 20px;
   padding-right: 10px;
 }
 .blog-meta i {
   color: #464646;
-  font-size: 14px;
+  font-size: 20px;
   padding-right: 10px;
 }
 .blog-info h3 {
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 500;
   letter-spacing: 1px;
   margin: 15px 0 20px;
@@ -47,7 +47,7 @@
   border: 1px solid #464646;
   color: #464646;
   display: inline-block;
-  font-size: 12px;
+  font-size: 20px;
   font-weight: bold;
   margin-top: 14px;
   padding: 8px 30px;
@@ -103,7 +103,7 @@ blockquote {
   background-color: #f6f6f6;
   border-left: 2px solid #464646;
   color: #666666;
-  font-size: 14px;
+  font-size: 20px;
   line-height: 26px;
   margin: 23px 0;
   padding: 14px 50px;
@@ -115,7 +115,7 @@ blockquote {
 h3.leave-comment-text {
   border-bottom: 1px solid #5b5b5b;
   display: inline-block;
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 600;
   margin-bottom: 30px;
   padding-bottom: 10px;
@@ -123,7 +123,7 @@ h3.leave-comment-text {
 
 .nes-icon > a i {
   color: #666666;
-  font-size: 14px;
+  font-size: 20px;
   margin-top: 10px;
 }
 
@@ -136,7 +136,7 @@ h3.leave-comment-text {
 }
 
 .blog-title > h3 {
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 500;
   margin-bottom: 6px;
   text-transform: capitalize;
@@ -157,7 +157,7 @@ h3.leave-comment-text {
   border: 1px solid #c1c1c1;
   color: #666666;
   font-family: "Lato",sans-serif;
-  font-size: 14px;
+  font-size: 20px;
   height: 35px;
   margin-bottom: 30px;
   padding: 0 20px;
@@ -189,7 +189,7 @@ h3.leave-comment-text {
   height: 165px;
   margin-bottom: 30px;
   padding: 20px;
-    font-size: 14px;
+    font-size: 20px;
 }
 
 button.submit {
